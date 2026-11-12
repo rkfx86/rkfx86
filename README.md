@@ -2,7 +2,7 @@
 
 **`Estudante de HTML e CSS`**
 
-Me chamo Erik Silva, tenho 18 anos e sou natural de Conceição do Coité. Concluí o ensino médio no CECHRA, Atualmente estou cursando HTML e CSS no Cursoemvideo, pretendo futuramente cursar Análise e Desenvolvimento de Sistemas na UFRB. Sou um grande apreciador da tecnologia, desejo seguir a carreira na area da tecnologia e mudar minha realidade.
+Me chamo Erik Silva, tenho 18 anos e sou natural de Conceição do Coité. Estou cursando o ensino médio no CECHRA, Atualmente estou cursando HTML e CSS no Cursoemvideo, pretendo futuramente cursar Análise e Desenvolvimento de Sistemas na UFRB. Sou um grande apreciador da tecnologia, desejo seguir a carreira na area da tecnologia e mudar minha realidade.
 
 <p align="left">
     <a href="https://github.com/rkfx86?tab=repositories&sort=stargazers">
