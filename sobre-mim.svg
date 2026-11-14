@@ -1,40 +1,28 @@
-<svg fill="none" viewBox="0 0 800 180" width="800" height="180" xmlns="http://w3.org">
+<svg fill="none" viewBox="0 0 800 165" width="800" height="165" xmlns="http://w3.org">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://w3.org">
       <style>
-        @import url('https://googleapis.com');
-
         .container {
-          font-family: 'Lekton', monospace;
-          background-color: #ffffff0e;
-          box-shadow: 2px 2px 3px #00000038;
-          padding: 15px;
+          font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+          background-color: #161b22;
+          border: 1px solid #30363d;
+          padding: 16px;
           border-radius: 8px;
-          color: #ffffff;
-          font-size: 15px;
-          line-height: 1.5;
+          color: #c9d1d9;
+          font-size: 14px;
+          line-height: 1.6;
         }
-        strong, #strong {
+        strong {
+          color: #58a6ff;
           font-weight: 700;
-        }
-        abbr {
-          text-decoration: none;
-          border-bottom: 1px dotted #ffffff69;
-        }
-        abbr:hover, #strong:hover {
-          background-color: #ffffff69;
-          color: #000000;
-          transition: 0.5s ease-in-out;
-          padding: 0 4px;
-          border-radius: 3px;
         }
       </style>
 
       <div class="container">
         <p style="margin: 0;">
-          Me chamo <strong id="strong">Erik Silva</strong>, tenho 18 anos e sou natural de Conceição do Coité. 
-          Estou cursando o segundo ano do ensino médio no <abbr title="Colégio Estadual do Campo Hamilton Rios de Araújo."><strong>CECHRA</strong></abbr>. 
-          Atualmente estou cursando HTML e CSS no Cursoemvideo, pretendo futuramente cursar Análise e Desenvolvimento de Sistemas na <abbr title="Universidade Federal do Recôncavo da Bahia"><strong>UFRB</strong></abbr>. 
+          Me chamo <strong>Erik Silva</strong>, tenho 18 anos e sou natural de Conceição do Coité. 
+          Estou cursando o segundo ano do ensino médio no <strong>CECHRA</strong> (Colégio Estadual do Campo Hamilton Rios de Araújo). 
+          Atualmente estou cursando HTML e CSS no Cursoemvideo, pretendo futuramente cursar Análise e Desenvolvimento de Sistemas na <strong>UFRB</strong> (Universidade Federal do Recôncavo da Bahia). 
           Sou um grande apreciador da tecnologia, desejo seguir a carreira na área da tecnologia e mudar minha realidade.
         </p>
       </div>
